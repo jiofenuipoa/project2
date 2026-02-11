@@ -23,9 +23,9 @@ answer = st.radio(
 
 )
 
-if answer.lower == "да":
+if answer. == "да":
 
-  st.write("Страхотно! Продължавай ")
+  st.write("Страхотно, продължавай!")
 
 else:
 
