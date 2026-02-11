@@ -23,7 +23,7 @@ answer = st.radio(
 
 )
 
-if answer. == "да":
+if answer == "да":
 
   st.write("Страхотно, продължавай!")
 
