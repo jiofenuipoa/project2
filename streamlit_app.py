@@ -33,4 +33,10 @@ else:
 
 if st.button("Кликни ме!"):
 
-  st.write("Благодаря")
+  st.write("Благодаря!")
+
+num = st.number_input("Колко е 5х5?")
+if num == 25:
+  st.write("Правилно!")
+else:
+  st.write("Грешно!")
